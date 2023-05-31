@@ -22,8 +22,10 @@ Gracias a que es una arquitectura simple de modificar y entender, fue la que se 
 ## Versiones de cambios
 
 1° Cambio: Al principio se trató de implementar ResNet50, pero al ser muy compleja de modificar, se cambió a VGG16.
+
 2° Cambio: Se implementó VGG16, pero no daba un buen resultado al identificar imágenes vaporwave. Se agregó más imágenes a la base de datos para mejorarla y dio un mejor resultado.
-2° Cambio: Para tratar de mejorar el modelo, se hicieron otras dos versiones del modelo. Una con más capa y la otra cambiando el optimizador a Adam y se subieron el número de epochs.
+
+3° Cambio: Para tratar de mejorar el modelo, se hicieron otras dos versiones del modelo. Una con más capa y la otra cambiando el optimizador a Adam y se subieron el número de epochs.
 
 
 ## Resultados
